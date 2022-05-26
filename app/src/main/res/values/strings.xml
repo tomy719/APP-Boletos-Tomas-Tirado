@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">boletos</string>
+    <string-array name="destinos">
+        <item>Tepic</item>
+        <item>Guadalajara</item>
+        <item>Ciudad de México</item>
+        <item>Durango</item>
+        <item>Queretaro</item>
+    </string-array>
+
+    <string-array name="tipoBoleto">
+        <item>Sencillo</item>
+        <item>Doble</item>
+    </string-array>
+</resources>
